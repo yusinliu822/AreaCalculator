@@ -1,0 +1,10 @@
+*.pptx
+
+META-INF/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+out/
+artifacts/

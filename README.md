@@ -1,4 +1,6 @@
 # Area Calculator
+### 版本下載
+[Area Calculator v1.0.0](https://github.com/yusinliu822/AreaCalculator/releases/tag/v1.0.0)
 
 ## 簡介
 Area Calculator 是一款基於 JavaFX 的影像分析工具，可用來計算影像中非背景區域的比例。透過調整色彩靈敏度與背景顏色設定，使用者能夠精準地篩選分析目標區域。
